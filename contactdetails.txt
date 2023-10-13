@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 fgvj,fejfkeb
 12345
+=======
+fgvj,fejfkeb 6301
+506077
+
